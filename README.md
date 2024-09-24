@@ -50,6 +50,7 @@ This project utilizes the following technologies:
 ![Screenshot (47)](https://github.com/user-attachments/assets/4f8d5942-91d4-4322-8c8c-9ed3d835df32)
 
 - Footer
+
 ![Screenshot (48)](https://github.com/user-attachments/assets/3cd0cc79-8ca1-4116-9be1-cfb8e4e7bad1)
 
 
